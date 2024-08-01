@@ -1,5 +1,3 @@
-
-```markdown
 # Reddit Clone Kubernetes Deployment Guide
 
 ## Step 1: Clone the Source Code
