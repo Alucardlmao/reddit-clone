@@ -214,4 +214,3 @@ curl -L http://domain.com/test
 ```
 
 Replace `domain.com` with your actual domain.
-```
