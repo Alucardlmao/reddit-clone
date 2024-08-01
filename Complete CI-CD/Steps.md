@@ -128,6 +128,8 @@ kubectl get services
 
 Ingress defines a set of rules for routing inbound traffic to Kubernetes services. Below is the manifest file for configuring ingress.
 
+![alt text](image-1.png)
+
 ### Write `Ingress.yml` File
 
 Create an ingress file with the following code:
